@@ -1,2 +1,2 @@
-# django-portfoilio
+# django-portfolio
 Django Portfolio App
